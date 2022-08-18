@@ -1,0 +1,16 @@
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.navBar {
+    background-color: blue;
+    color: yellow;
+    height: 39px;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
